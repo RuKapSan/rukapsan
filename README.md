@@ -1,6 +1,6 @@
 # Hey 👋
 
-ML Engineer & Team Lead focused on production AI systems and inference optimization.
+ML Engineer focused on production AI systems and inference optimization.
 
 ## What I do
 
@@ -15,9 +15,9 @@ Building and scaling AI image generation infrastructure serving ~10K daily users
 ## Tech Stack
 
 ```
-ML/AI:      PyTorch • CUDA • ComfyUI • Stable Diffusion • Flux
+ML/AI:      PyTorch • CUDA • ComfyUI • Stable Diffusion • Flux • Wan • Hunyuan
 Infra:      Docker • Redis • PostgreSQL • RunPod
-Languages:  Python • Rust • Bash
+Languages:  Python • Rust • TypeScript • Go • Bash
 ```
 
 ## Projects
