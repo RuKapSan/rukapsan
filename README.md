@@ -1,6 +1,6 @@
 # Hey 👋
 
-ML Engineer focused on production AI systems and inference optimization.
+ML Infrastructure Engineer. Building AI generation systems at scale.
 
 ## What I do
 
@@ -26,10 +26,16 @@ Languages:  Python • Rust • TypeScript • Go • Bash
 
 ## Currently exploring
 
-- AI agent orchestration (LangGraph, CrewAI, AutoGen)
+- AI agent orchestration
 - Zero-error task execution frameworks
 - Autonomous AI systems architecture
 - Advanced inference optimization techniques
+
+## Find me
+
+**[Telegram](https://t.me/rkpstam)**
+**[Channel](https://t.me/firsterstrongerbetter)**
+**[LinkedIn](https://www.linkedin.com/in/rukapsan/)**
 
 ## Contact
 
