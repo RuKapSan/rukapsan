@@ -4,7 +4,7 @@ ML Engineer & Team Lead focused on production AI systems and inference optimizat
 
 ## What I do
 
-Building and scaling AI image generation infrastructure serving ~10K daily users. Working with 50+ fine-tuned models across SD1.5, SDXL, and Flux architectures.
+Building and scaling AI image generation infrastructure serving ~10K daily users. Working with models like SD1.5, SDXL, Flux, Wan, Hunyuan architectures.
 
 **Core focus:**
 - Inference optimization (achieved 20x speedups with techniques like Sage Attention)
