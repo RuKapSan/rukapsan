@@ -33,8 +33,6 @@ Languages:  Python • Rust • TypeScript • Go • Bash
 
 ## Find me
 
-**[Telegram](https://t.me/rkpstam)**
-**[Channel](https://t.me/firsterstrongerbetter)**
 **[LinkedIn](https://www.linkedin.com/in/rukapsan/)**
 
 ## Contact
